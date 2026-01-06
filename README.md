@@ -22,4 +22,5 @@ git push -u origin main
 📦 Backend part will be uploaded in a separate repo once completed.
 
 👩‍💻Author
-https://github.com/Sweta3156
+*Sweta Choudhary*  
+GitHub: https://github.com/Sweta3156
