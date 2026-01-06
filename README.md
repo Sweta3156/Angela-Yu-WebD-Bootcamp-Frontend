@@ -21,6 +21,4 @@ git push -u origin main
  JavaScript Basics & DOM
 📦 Backend part will be uploaded in a separate repo once completed.
 
-👩‍💻Author
-**Sweta Choudhary**
-GitHub: https://github.com/Sweta3156
+
